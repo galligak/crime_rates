@@ -1,0 +1,6 @@
+import pandas as pd
+file = 'data/pandas as pd
+file = 'data/e02eddf9-2e0c-4980-baa7-cb4b06423022_Data.csv'
+with open(file) as f:
+    reader=csv.read(f)
+reader.head()
